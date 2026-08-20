@@ -1,4 +1,12 @@
-## Hi there 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Prem%20Kumar.S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<h2>🤖 AI Developer • Full-Stack Developer • Builder 🚀</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+Developer;Full-Stack+Developer;Building+AI-Powered+Applications;Automation+%7C+Web+Development;Turning+Ideas+Into+Code+%F0%9F%9A%80" />
+
+</div>## Hi there 👋
 
 <!--
 **premkumar-ai-dev/premkumar-ai-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
