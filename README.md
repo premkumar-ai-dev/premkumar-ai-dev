@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> </div>
 
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,50:8E2DE2,100:2575FC&text=Prem%20Kumar.S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
