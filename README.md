@@ -4,10 +4,8 @@
 
 # 👋 hello eveyone
 
-Typing Animation
-
-About Me
-
-Tech Stack
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 </div>
