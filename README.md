@@ -12,4 +12,14 @@
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAd/coding.gif" width="700"/>
 </p>
 
+<p align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAd/coding.gif" width="700"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=timeGradient&text=Prem%20Kumar.S&fontSize=60&animation=twinkling&fontColor=ffffff"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216656986-4428d0ff-f744-4e8a-9a95-3cab5d2f5d03.gif" width="100%">
+
+
+
 </div>
