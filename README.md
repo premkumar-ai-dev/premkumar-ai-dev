@@ -1,24 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Prem%20Kumar.S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,50:8E2DE2,100:2575FC&text=Prem%20Kumar.S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<h2>🤖 AI Developer • Full-Stack Developer • Builder 🚀</h2>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Developer;AI+Automation+Engineer;Open+Source+Contributor;Building+the+Future+with+AI+🚀"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+Developer;Full-Stack+Developer;Building+AI-Powered+Applications;Automation+%7C+Web+Development;Turning+Ideas+Into+Code+%F0%9F%9A%80" />
+<br><br>
 
-</div> hello everyone 👋
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212750689-1d9b4d7d-8b77-4b76-9d0f-6c8f32a61d82.gif" width="100%"/>
 
-<!--
-**premkumar-ai-dev/premkumar-ai-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Coding GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212749695-042dba25-8456-40d7-8d3d-6f3f3c9b3d9b.gif" width="550"/>
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Tech Stack -->
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,firebase,mysql,docker,git,github,vscode,linux,tensorflow&perline=8"/>
+
+<br><br>
+
+<!-- Visitor Badge -->
+<img src="https://komarev.com/ghpvc/?username=premkumar-ai-dev&label=PROFILE+VIEWS&style=for-the-badge&color=8A2BE2"/>
+
+</div>
